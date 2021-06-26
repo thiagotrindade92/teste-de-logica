@@ -1,0 +1,112 @@
+
+letra (A) 
+
+    inteiro a, b, c
+
+		    a = 10
+		    b = 20
+
+
+		    escreva(b)
+
+		    b = 5
+
+		    escreva(a, b)
+		    
+		          resultado = 20105
+
+letra (B)  
+
+    inteiro a, b, c
+
+		    a = 10
+		    b = 20
+
+		    c = a
+		    b = c
+		    a = b
+
+		    escreva(a, b, c)
+		    
+		            resultado = 101010
+
+letra (C)
+
+    inteiro a, b, c
+
+		a = 10
+		b = 5
+
+		c = a + b
+
+		b = 20
+		a = 10
+
+		escreva(a, b, c)
+		
+		        resultado = 102015
+
+
+letra (D)
+
+    inteiro a, b, c
+
+		a = 30
+		b = 20
+
+		c = a + b
+
+		escreva(c)
+
+		b = 10
+
+		escreva(b,c)
+
+		c = a + b
+
+		escreva (a, b, c)
+		
+		
+		resultado = 501050301040
+
+letra (E)
+
+    inteiro a, b, c
+    
+        a = 10
+        b = a +1
+        a = b +1
+        b = a +1
+        
+        
+        escreva (a)
+        
+        a = b + 1
+        
+        escreva (a, b)
+        
+            resultado = 121413
+
+
+letra (F)
+
+    inteiro x, y, z
+    
+        x = 1
+        y = 2
+        z = y - x
+        
+        escreva (z)
+        
+        x = 5
+        
+        y = x + z
+        
+        escreva (x, y, z)
+    
+            
+            resultado = 1561
+    
+    
+    
+ 
